@@ -17,6 +17,16 @@ node_modules/
 .dist/
 build/
 
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
 # SEO & Search Console
 sitemap.xml
 robots.txt
